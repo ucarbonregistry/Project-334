@@ -51,5 +51,5 @@ Serial No: 0001-000001-030741-UCR-CoU-IN-334-01012022-31122022
 
 Vintage Year: 2022
 
-Quantity: 29204
+Quantity: 30741
 _______________
