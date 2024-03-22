@@ -22,3 +22,14 @@ The Waste Heat Recovery (WHR) based Captive Power Plant is installed at PSIPL si
 content of flue gases coming out of Rotary Kiln. There are three 11.5 TPH WHR Boiler for 7.1 MW
 power generation. Each boiler will be a vertical, 3 pass, natural circulation, fully drainable, gas tight
 membrane casing, water tube boiler for continuous operation and out-door installation.
+______________________
+ISSUE DATE: 22/03/2024
+
+Quantity: 30741 CoUs
+_________________
+Serial No: 0001-000001-030741-UCR-CoU-IN-334-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 29204
+_______________
