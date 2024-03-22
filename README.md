@@ -8,6 +8,26 @@ recovery boiler (WHRB) captive power plant (CPP).
 The geographical coordinates of the project site are 76.66818°E and 14.15321°N that is 76°40’5.448” E
 and 14°09’11.556” N.
 
+Monitoring Period Number: 01
+
+Duration of this monitoring Period: (first and last days
+included) 01/01/2022 to 31/12/2022
+
+Project participants Project Participant and Aggregator:
+M/s Prakash Sponge Iron & Power Private Ltd. (PSIPL)
+Bangalore, Karnataka
+
+Host Party INDIA
+
+Applied Methodology:
+CDM UNFCCC Methodology AMS-III.Q: Waste Energy
+Recovery, version 06.1
+
+Sectoral scopes
+4. Manufacturing Industries
+
+Project commissioning date 15/04/2021
+
 PSIPL has installed three nos. each of 11.5 TPH WHRB to utilize sensible heat of flue gases emitting
 from Rotary Kiln along with one 7.1 MW turbo generator to fulfil the captive requirement of the plant.
 The proposed 7.1MW Captive Power Plant (CPP) will be of 3 boilers – one steam turbine arrangement.
